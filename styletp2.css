@@ -1,0 +1,27 @@
+body{
+    background-color:rgb(0, 0, 0);
+    background-image:url("https://th.bing.com/th/id/R.7a93116ff0dc890ad294b7bc96b793c1?rik=Kh%2bgGMZr8i21FA&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fb%2f3%2fa%2f785974-free-download-inspiring-background-images-3200x2000.jpg&ehk=EuZi6EbWwWKnJFsyFBgzQo6OB10dVWuhAEyhPDLp%2bWg%3d&risl=&pid=ImgRaw&r=0");
+    background-attachment:fixed;
+    background-size:1300px;
+    }
+body{
+    text-align: center;
+}
+       h1{
+        color:rgb(237, 80, 80);
+        font-size: 60;
+        font-style: oblique;
+        text-align: center;
+       }
+       h2{
+        color: blue;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       }
+       figcaption{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+       }
+       footer{
+        color: blue;
+       }
